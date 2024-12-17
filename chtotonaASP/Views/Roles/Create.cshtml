@@ -1,0 +1,16 @@
+﻿@model chtotonaASP.Models.Role
+
+@{
+    ViewData["Title"] = "Создать роль";
+}
+
+<h2>Создать роль</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="NameRole">Название роли</label>
+        <input asp-for="NameRole" class="form-control" />
+        <span asp-validation-for="NameRole" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Создать</button>
+</form>

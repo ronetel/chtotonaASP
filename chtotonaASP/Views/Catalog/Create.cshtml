@@ -1,0 +1,36 @@
+﻿@model chtotonaASP.Models.CatList
+
+@{
+    ViewData["Title"] = "Создать товар";
+}
+
+<h2>Создать товар</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="NameProduct">Название товара</label>
+        <input asp-for="NameProduct" class="form-control" />
+        <span asp-validation-for="NameProduct" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Img">Изображение</label>
+        <input asp-for="Img" class="form-control" />
+        <span asp-validation-for="Img" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DescProduct">Описание товара</label>
+        <textarea asp-for="DescProduct" class="form-control"></textarea>
+        <span asp-validation-for="DescProduct" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price">Цена</label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="IdproductType">Тип продукта</label>
+        <select asp-for="IdproductType" class="form-control" asp-items="ViewBag.IdproductType"></select>
+        <span asp-validation-for="IdproductType" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Создать</button>
+</form>

@@ -1,0 +1,827 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\controllers\\accountcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\controllers\\accountcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\controllers\\producttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\controllers\\producttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\controllers\\\u0441atalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\controllers\\\u0441atalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\models\\productsinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\models\\productsinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\models\\catlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\models\\catlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\reviews\\reviews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\reviews\\reviews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\reviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\reviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\reviews\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\reviews\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\producttype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\producttype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\producttype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\producttype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\producttype\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\producttype\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\catalog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\catalog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\catalog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\catalog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\catalog\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\catalog\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\cart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\cart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\cart\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\cart\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\catalog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\catalog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\reviews\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\reviews\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\models\\aspnetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\models\\aspnetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|c:\\users\\ronetel\\source\\repos\\chtotonaasp\\chtotonaasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6FC0946-FC56-4757-AD00-51D3D758A43E}|chtotonaASP\\chtotonaASP.csproj|solutionrelative:chtotonaasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 343,
+          "SelectedChildIndex": 37,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T18:52:28.935Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Cart\\Cart.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Cart\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Cart\\Cart.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Cart\\Cart.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vyQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T14:26:31.592Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Catalog.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Catalog\\Catalog.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Catalog\\Catalog.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Catalog\\Catalog.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Catalog\\Catalog.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T14:04:00.121Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "chtotonaASP\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "chtotonaASP\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAPIBAAAAAAAAAAAIwPEBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-01T17:58:58.039Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T19:57:13.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\ProductTypeController.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Controllers\\ProductTypeController.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\ProductTypeController.cs",
+              "RelativeToolTip": "chtotonaASP\\Controllers\\ProductTypeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwE0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:23:12.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\ProductType\\Create.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\ProductType\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\ProductType\\Create.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\ProductType\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T15:21:45.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\ProductType\\Edit.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\ProductType\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\ProductType\\Edit.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\ProductType\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T15:19:14.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\ProductType\\Index.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\ProductType\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\ProductType\\Index.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\ProductType\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T15:17:29.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "chtotonaASP\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:14:49.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\News\\Create.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\News\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\News\\Create.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\News\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T08:11:35.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\News\\Edit.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\News\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\News\\Edit.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\News\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T08:09:48.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\News\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\News\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T08:07:12.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Cart\\Edit.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Cart\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Cart\\Edit.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Cart\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T17:45:31.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Cart\\Create.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Cart\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Cart\\Create.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Cart\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T17:45:22.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T17:23:28.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Reviews\\Edit.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Reviews\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Reviews\\Edit.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Reviews\\Edit.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T16:48:20.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Reviews\\Create.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Reviews\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Reviews\\Create.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Reviews\\Create.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T16:47:23.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "chtotonaASP\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:41:34.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Reviews\\Index.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Reviews\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Reviews\\Index.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Reviews\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T16:41:28.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Reviews.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Reviews\\Reviews.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Reviews\\Reviews.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Reviews\\Reviews.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Reviews\\Reviews.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T16:40:21.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\Review.cs",
+              "RelativeToolTip": "chtotonaASP\\Models\\Review.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:35:28.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\ProductType.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Models\\ProductType.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\ProductType.cs",
+              "RelativeToolTip": "chtotonaASP\\Models\\ProductType.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:35:26.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductsInOrder.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\ProductsInOrder.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Models\\ProductsInOrder.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\ProductsInOrder.cs",
+              "RelativeToolTip": "chtotonaASP\\Models\\ProductsInOrder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:35:23.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\News.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Models\\News.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\News.cs",
+              "RelativeToolTip": "chtotonaASP\\Models\\News.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:35:20.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Catalog\\Edit.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Catalog\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Catalog\\Edit.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Catalog\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T16:27:45.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Catalog\\Create.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Catalog\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Catalog\\Create.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Catalog\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T16:25:09.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Catalog\\Index.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Catalog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Catalog\\Index.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Catalog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T16:23:55.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Roles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Roles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Roles\\Edit.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Roles\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T16:10:12.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Roles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Roles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T16:09:15.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "chtotonaASP\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:00:01.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:59:09.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\Role.cs",
+              "RelativeToolTip": "chtotonaASP\\Models\\Role.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:31:44.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:37:39.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwBoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:30:15.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\User.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\User.cs",
+              "RelativeToolTip": "chtotonaASP\\Models\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:11:17.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "chtotonaASP\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAwH4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:08:39.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:06:30.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "chtotonaASP\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:20:25.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "chtotonaASP\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:18:32.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Models\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "chtotonaASP\\Models\\HomeViewModel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:35:41.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AspnetContext.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\AspnetContext.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Models\\AspnetContext.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\AspnetContext.cs",
+              "RelativeToolTip": "chtotonaASP\\Models\\AspnetContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:02:24.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CatList.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\CatList.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Models\\CatList.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Models\\CatList.cs",
+              "RelativeToolTip": "chtotonaASP\\Models\\CatList.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:02:03.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "chtotonaASP\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:32:05.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "chtotonaASP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "chtotonaASP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAE4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T20:22:46.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "\u0421atalogController.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\\u0421atalogController.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Controllers\\\u0421atalogController.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\\u0421atalogController.cs",
+              "RelativeToolTip": "chtotonaASP\\Controllers\\\u0421atalogController.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAwwMIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:31:50.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\CartController.cs",
+              "RelativeToolTip": "chtotonaASP\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAvwKMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:31:43.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController .cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\AccountController .cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Controllers\\AccountController .cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Controllers\\AccountController .cs",
+              "RelativeToolTip": "chtotonaASP\\Controllers\\AccountController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:31:25.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Program.cs",
+              "RelativeDocumentMoniker": "chtotonaASP\\Program.cs",
+              "ToolTip": "C:\\Users\\ronetel\\source\\repos\\chtotonaASP\\chtotonaASP\\Program.cs",
+              "RelativeToolTip": "chtotonaASP\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:49:46.972Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

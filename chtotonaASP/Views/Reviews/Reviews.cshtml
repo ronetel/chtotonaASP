@@ -1,0 +1,22 @@
+﻿@model chtotonaASP.Models.ReviewsViewModel
+
+@{
+    ViewData["Title"] = "Отзывы";
+}
+
+<h1>Отзывы о нашем магазине</h1>
+<div class="reviews-container">
+    @foreach (var review in Model.Review)
+    {
+        <div class="col-md-6">
+            <div class="card mb-4 box-shadow">
+                <div class="card-body">
+                    <h5 class="card-title">@review.User?.FullName</h5>
+                    <p class="card-text">@review.Comment</p>
+                    <p class="card-text">Дата: @(review.Created?.ToString("dd.MM.yyyy HH:mm") ?? "Не указана")</p>
+                    <p class="card-text">Рейтинг: @review.Rating</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

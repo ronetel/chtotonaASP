@@ -1,0 +1,16 @@
+﻿@model chtotonaASP.Models.ProductType
+
+@{
+    ViewData["Title"] = "Создать тип продукта";
+}
+
+<h2>Создать тип продукта</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="ProductType1">Название типа продукта</label>
+        <input asp-for="ProductType1" class="form-control" />
+        <span asp-validation-for="ProductType1" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Создать</button>
+</form>

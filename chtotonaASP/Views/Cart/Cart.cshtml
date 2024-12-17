@@ -1,0 +1,53 @@
+﻿@model chtotonaASP.Models.PinorViewModel
+
+@{
+    ViewData["Title"] = "Корзина";
+}
+
+<h1>Корзина</h1>
+
+<div class="cart-container">
+    @if (Model.ProductsInOrder != null && Model.ProductsInOrder.Any())
+    {
+        @foreach (var item in Model.ProductsInOrder)
+        {
+            if (item.Product != null)
+            {
+                <div class="cart-item" data-pinor-id="@item.PinorId">
+                    <div class="cart-item-details">
+                        <img src="@item.Product.Img" alt="@item.Product.NameProduct" class="cart-item-image" />
+                        <div class="cart-item-info">
+                            <h3>@item.Product.NameProduct</h3>
+                            <p>@item.Product.DescProduct</p>
+                        </div>
+                        <p>Цена: @item.Product.Price руб.</p>
+                    </div>
+                    <div class="cart-item-quantity">
+                        <form asp-action="DecreaseQuantity" method="post" style="display:inline;">
+                            <input type="hidden" name="pinorId" value="@item.PinorId" />
+                            <button type="submit" class="quantity-btn">-</button>
+                        </form>
+                        <span class="quantity" id="quantity-@item.PinorId">@item.Quantity</span>
+                        <form asp-action="IncreaseQuantity" method="post" style="display:inline;">
+                            <input type="hidden" name="pinorId" value="@item.PinorId" />
+                            <button type="submit" class="quantity-btn">+</button>
+                        </form>
+                    </div>
+                    <div class="cart-item-price">
+                        <p>Сумма: @(item.Product.Price) руб.</p>
+                    </div>
+                </div>
+            }
+        }
+    }
+    else
+    {
+        <p>Корзина пуста</p>
+    }
+</div>
+
+<div class="cart-summary">
+    <div class="cart-summary-total">
+        <p>Итого: @Model.TotalSum руб.</p>
+    </div>
+</div>

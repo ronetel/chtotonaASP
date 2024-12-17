@@ -1,0 +1,46 @@
+﻿@model chtotonaASP.Models.HomeViewModel
+
+@{
+    ViewData["Title"] = "Главная";
+}
+
+<h1>Добро пожаловать, Путешественник</h1>
+<div class="container p-0 ">
+    <div class=" row justify-content-between">
+        <div class="catalog col-8 p-3 d-flex flex-column align-items-center">
+            <h4 class="mx-2">Популярные товары</h4>
+            <div class="catalog-list p-3 col-12 d-flex justify-content-center  align-items-center row row-cols-2 row-cols-lg-3 ">
+                @foreach (var product in Model.CatList)
+                {
+                    <div class="catalog-element">
+                        <div class="card-img">
+                            <img src=@product.Img alt="@product.NameProduct" />
+                        </div>
+                        <div class="card-head">
+                            <h5 class="card-title">
+                                @product.NameProduct
+                            </h5>
+                        </div>
+                        <div class="card-foooter">
+                            <button class="price-btn">@product.Price ₽</button>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+        <div class="news col-3">
+            <div class="news-header">
+                <h2 class="news-title text-center py-2">Новости</h2>
+            </div>
+
+            <div class="news-body">
+                @foreach (var news in Model.News)
+                {
+
+                    <a class="news-item" href="@news.Link">@news.Caption</a>
+                    <hr>
+                }
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<chtotonaASP.Models.Role>
+
+@{
+    ViewData["Title"] = "Роли";
+}
+
+<h2>Роли</h2>
+@if (ViewData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @ViewData["ErrorMessage"]
+    </div>
+}
+<table class="table">
+    <thead>
+        <tr class="text-white">
+            <th>ID</th>
+            <th>Имя</th>
+            <td>Действия</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr class="text-white">
+                <td>@user.IdRole</td>
+                <td>@user.NameRole</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@user.IdRole" class="btn btn-primary">Редактировать</a>
+                    <form asp-action="Delete" asp-route-id="@user.IdRole" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Удалить</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-success">Создать новую роль</a>

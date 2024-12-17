@@ -1,0 +1,24 @@
+﻿@model chtotonaASP.Models.LoginViewModel
+@{
+    ViewData["Title"] = "Авторизация";
+}
+
+<h2>Вход</h2>
+
+<form asp-action="Login" method="post">
+    <div class="form-group">
+        <label asp-for="Email">Логин/почта</label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Password">Пароль</label>
+        <input asp-for="Password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Войти</button>
+</form>
+@if (ViewBag.ErrorMessage != null)
+{
+    @ViewBag.ErrorMessage;
+}

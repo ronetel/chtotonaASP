@@ -1,0 +1,21 @@
+﻿@model chtotonaASP.Models.News
+
+@{
+    ViewData["Title"] = "Создать новость";
+}
+
+<h2>Создать новость</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Caption">Заголовок</label>
+        <input asp-for="Caption" class="form-control" />
+        <span asp-validation-for="Caption" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Link">Ссылка</label>
+        <input asp-for="Link" class="form-control" />
+        <span asp-validation-for="Link" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Создать</button>
+</form>

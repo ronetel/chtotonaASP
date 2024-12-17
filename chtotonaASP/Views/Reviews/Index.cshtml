@@ -1,0 +1,42 @@
+﻿@model IEnumerable<chtotonaASP.Models.Review>
+
+@{
+    ViewData["Title"] = "Отзывы";
+}
+
+<h2>Отзывы</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th class="text-white">ID</th>
+            <th class="text-white">Продукт</th>
+            <th class="text-white">Пользователь</th>
+            <th class="text-white">Рейтинг</th>
+            <th class="text-white">Комментарий</th>
+            <th class="text-white">Дата создания</th>
+            <th class="text-white">Действия</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var review in Model)
+        {
+            <tr class="text-white">
+                <td>@review.ReviewId</td>
+                <td>@review.Product?.NameProduct</td>
+                <td>@review.User?.FullName</td>
+                <td>@review.Rating</td>
+                <td>@review.Comment</td>
+                <td>@review.Created</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@review.ReviewId" class="btn btn-primary">Редактировать</a>
+                    <form asp-action="Delete" asp-route-id="@review.ReviewId" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Удалить</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-success">Создать новый отзыв</a>

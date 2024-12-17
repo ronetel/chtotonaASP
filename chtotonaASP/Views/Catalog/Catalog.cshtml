@@ -1,0 +1,52 @@
+﻿@model chtotonaASP.Models.CatListViewModel
+@{
+    ViewData["Title"] = "Каталог";
+}
+
+<h1>Каталог</h1>
+
+<div class="container p-0">
+    <div class="catalog-filters">
+        <form asp-action="Catalog" method="get">
+            <input type="text" name="searchTerm" placeholder="Поиск..." value="@Model.Search" />
+            <select name="sort">
+                <option value="">По умолчанию</option>
+                <option value="price_asc">Цена (по возрастанию)</option>
+                <option value="price_desc">Цена (по убыванию)</option>
+                <option value="name_asc">Название (по возрастанию)</option>
+                <option value="name_desc">Название (по убыванию)</option>
+            </select>
+            <select name="filter">
+                <option value="">По умолчанию</option>
+                <option value="gem">Гемы</option>
+                <option value="bp">БП</option>
+                <option value="skins">Скины</option>
+            </select>
+            <button type="submit">Применить</button>
+        </form>
+    </div>
+
+    <div class="catalog-list p-3 col-12 row row-cols-2 row-cols-lg-3">
+        @foreach (var product in Model.CatList)
+        {
+            <div class="catalog-element-2">
+                <div class="card-img">
+                    <img src="@product.Img" alt="@product.NameProduct" />
+                </div>
+                <div class="card-head">
+                    <h5 class="card-title">
+                        @product.NameProduct
+                    </h5>
+                </div>
+                <div class="card-foooter">
+                    <form asp-action="AddToCart" method="post">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="productId" value="@product.ProductId" />
+                        <input type="hidden" name="quantity" value="1" min="1" />
+                        <button class="price-btn">@product.Price ₽</button>
+                    </form>
+                </div>
+            </div>
+        }
+    </div>
+</div>

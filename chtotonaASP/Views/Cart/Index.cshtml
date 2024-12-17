@@ -1,0 +1,40 @@
+﻿@model IEnumerable<chtotonaASP.Models.ProductsInOrder>
+
+@{
+    ViewData["Title"] = "Товары в заказе";
+}
+
+<h2>Товары в заказе</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th class="text-white">ID</th>
+            <th class="text-white">Продукт</th>
+            <th class="text-white">Пользователь</th>
+            <th class="text-white">Количество</th>
+            <th class="text-white">Цена</th>
+            <th class="text-white">Действия</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var productInOrder in Model)
+        {
+            <tr class="text-white">
+                <td>@productInOrder.PinorId</td>
+                <td>@productInOrder.Product?.NameProduct</td>
+                <td>@productInOrder.User?.FullName</td>
+                <td>@productInOrder.Quantity</td>
+                <td>@productInOrder.Product.Price</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@productInOrder.PinorId" class="btn btn-primary">Редактировать</a>
+                    <form asp-action="Delete" asp-route-id="@productInOrder.PinorId" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Удалить</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-success">Создать новый товар в заказе</a>
